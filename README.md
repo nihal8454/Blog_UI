@@ -1,3 +1,4 @@
+![Screenshot blog](https://user-images.githubusercontent.com/113675970/202252467-c83243d3-7601-4b8b-a35b-c026b24b1bd2.png)
 # blog_ui
 
 A new Flutter project.
